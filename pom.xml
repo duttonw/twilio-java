@@ -138,7 +138,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>28.0-android</version>
+			<version>30.0-android</version>
 		</dependency>
 		<dependency>
 			<groupId>joda-time</groupId>
@@ -271,8 +271,8 @@
 					<version>true</version>
 					<use>true</use>
 					<windowtitle>Twilio Java</windowtitle>
-					<doctitle>&lt;h1&gt;Twilio Java&lt;/h1&gt;</doctitle>
-					<bottom>&lt;i&gt;Copyright &amp;#169; 2019 Twilio, Inc. All Rights Reserved.&lt;/i&gt;</bottom>
+					<doctitle>&lt;h1>Twilio Java&lt;/h1></doctitle>
+					<bottom>&lt;i>Copyright &amp;#169; 2019 Twilio, Inc. All Rights Reserved.&lt;/i></bottom>
 				</configuration>
 				<executions>
 					<execution>
