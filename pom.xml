@@ -130,7 +130,7 @@
 	</profiles>
 	<properties>
 		<jackson.version>2.10.1</jackson.version>
-		<jackson.databind.version>2.10.1</jackson.databind.version>
+		<jackson.databind.version>2.10.5.1</jackson.databind.version>
 		<skip.tests>false</skip.tests>
 		<dependency.skip>false</dependency.skip>
 	</properties>
@@ -271,8 +271,8 @@
 					<version>true</version>
 					<use>true</use>
 					<windowtitle>Twilio Java</windowtitle>
-					<doctitle>&lt;h1&gt;Twilio Java&lt;/h1&gt;</doctitle>
-					<bottom>&lt;i&gt;Copyright &amp;#169; 2019 Twilio, Inc. All Rights Reserved.&lt;/i&gt;</bottom>
+					<doctitle>&lt;h1>Twilio Java&lt;/h1></doctitle>
+					<bottom>&lt;i>Copyright &amp;#169; 2019 Twilio, Inc. All Rights Reserved.&lt;/i></bottom>
 				</configuration>
 				<executions>
 					<execution>
